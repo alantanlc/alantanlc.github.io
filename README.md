@@ -1,4 +1,8 @@
+<img src="./profile_pic.png" width="150px">
+
 ### Alan Tan
+
+![location](https://d3nn82uaxijpm6.cloudfront.net/assets/svg/icon-location-de7eda14153bd76c2bf3928335ec7188a4f2b0eaea2743d73a68f5b6b11a8d4a.svg) Singapore
 
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
 [[GitHub](https://github.com/alanwuha)]
