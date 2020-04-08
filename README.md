@@ -8,7 +8,7 @@
 [[GitHub](https://github.com/alanwuha)]
 [[LinkedIn](https://www.linkedin.com/in/alanwuha/)]
 
-<hr style="0.05rem;" />
+<hr style="height: 0.05rem;" />
 
 ### Projects
 
