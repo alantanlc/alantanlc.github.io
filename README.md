@@ -1,6 +1,8 @@
 <img src="./profile_pic.png" width="150px">
 
-### Alan Tan <br><small style="font-size: 11pt; font-weight: normal; color: grey;">@alanwuha</small>
+### Alan Tan
+
+<small style="display:block; margin-top: -1rem; font-size: 11pt; font-weight: normal; color: grey;">@alanwuha</small>
 
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
 [[GitHub](https://github.com/alanwuha)]
