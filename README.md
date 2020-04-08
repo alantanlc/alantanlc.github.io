@@ -19,6 +19,7 @@
 [[Video](https://www.youtube.com/watch?v=YjFS944_Vl4)]
 [[News](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)]
 [[Report](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)]
+[[Slides](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)]
 
 ### Posts
 
