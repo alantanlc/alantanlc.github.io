@@ -1,8 +1,6 @@
 <img src="./profile_pic.png" width="150px">
 
-### Alan Tan
-
-![location](https://d3nn82uaxijpm6.cloudfront.net/assets/svg/icon-location-de7eda14153bd76c2bf3928335ec7188a4f2b0eaea2743d73a68f5b6b11a8d4a.svg) Singapore
+### Alan Tan <br><small>@alanwuha</small>
 
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
 [[GitHub](https://github.com/alanwuha)]
@@ -13,13 +11,14 @@
 ### Projects
 
 - 2020 - NTUMods
-[[GitHub](https://github.com/alanwuha/ntumods)]
+[[site](https://ntumods.com)]
+[[code](https://github.com/alanwuha/ntumods)]
 - 2016 - Virtual Piano
-[[GitHub](https://github.com/alanwuha/virtual-piano)]
-[[Video](https://www.youtube.com/watch?v=YjFS944_Vl4)]
-[[News](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)]
-[[Report](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)]
-[[Slides](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)]
+[[code](https://github.com/alanwuha/virtual-piano)]
+[[video](https://www.youtube.com/watch?v=YjFS944_Vl4)]
+[[report](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)]
+[[slides](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)]
+[[news](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)]
 
 ### Posts
 
