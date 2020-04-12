@@ -29,9 +29,3 @@
 [[code]](https://github.com/alanwuha/virtual-piano)
 [[report]](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)
 [[slides]](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)
-
-### Posts
-
-- 8/4/2020 - [I built a course planner for NTU using React, Django and Postgresql](https://github.com/alanwuha)
-- 7/4/2020 - [I wrote an automated lab evaluation script in Python](https://github.com/alanwuha)
-- 6/4/2020 - [I quitted my job to pursue a full-time PhD at NTU](https://github.com/alanwuha)
