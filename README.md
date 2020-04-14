@@ -12,9 +12,6 @@
 
 ### Projects
 
-- 2020 - NTUMods
-[[site]](https://ntumods.com)
-[[code]](https://github.com/alanwuha/ntumods)
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
