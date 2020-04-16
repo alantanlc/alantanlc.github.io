@@ -26,3 +26,7 @@
 [[code]](https://github.com/alanwuha/virtual-piano)
 [[report]](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)
 [[slides]](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)
+
+### Teaching Courses
+
+- AY2019/20 Sem 2: CZ3007 Compiler Techniques | Lab Tutor
