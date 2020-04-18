@@ -29,4 +29,4 @@
 
 ### Teaching Courses
 
-- AY2019/20 Sem 2: CZ3007 Compiler Techniques | Lab Tutor
+- AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
