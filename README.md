@@ -12,6 +12,8 @@
 
 ### Projects
 
+- 2020 - NTU Courses
+[[website]](https://ntucourses.com)
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
