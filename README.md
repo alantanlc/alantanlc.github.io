@@ -7,6 +7,7 @@
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
 [[GitHub](https://github.com/alanwuha)]
 [[LinkedIn](https://www.linkedin.com/in/alanwuha/)]
+[[LeetCode](https://leetcode.com/alanwuha/)]
 
 <hr style="height: 0.05rem;" />
 
