@@ -15,6 +15,12 @@
 
 - 2020 - NTU Courses
 [[website]](https://ntucourses.com)
+[[code](https://github.com/alanwuha/ntumods)]
+- 2020 - Commonsense Reasoning Using Current NLP Landscape
+[[video]](https://www.dropbox.com/s/zlsi8njzdjyoi2g/video.mov?dl=0)
+[[code]](https://github.com/alanwuha/ce7455-project)
+[[report]](https://www.dropbox.com/s/4wuqg2u94wa56kn/report.pdf?dl=0)
+[[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
