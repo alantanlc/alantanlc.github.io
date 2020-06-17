@@ -103,91 +103,91 @@
     1. Negotiation
     1. On the Job
 1. Interview Questions
-    - Data Structures
-    1. Chapter 1 | Arrays and Strings
-        1. Hash Tables
-        1. ArrayList & Resizable Arrays
-        1. StringBuilder
-    1. Chapter 2 | Linked Lists
-        1. Creating a Linked List
-        1. Deleting a Node from a Singly Linked List
-        1. The "Runner" Technique
-        1. Recursive Problems
-    1. Chapter 3 | Stacks and Queues
-        1. Implementing a Stack
-        1. Implementing a Queue
-    1. Chapter 4 | Tree and Graphs
-        1. Types of Trees
-        1. Binary Tree Traversal
-        1. Binary Heaps (Min-Heaps and Max-Heaps)
-        1. Tries (Prefix Trees)
-        1. Graphs
-        1. Graph Search
-    - Concepts and Algorithms
-    1. Chapter 5 | Bit Manipulation
-        1. Bit Manipulation By Hand
-        1. Bit Facts and Tricks
-        1. Two's Complement and Negative Numbers
-        1. Arithmetic vs. Logical Right Shift
-        1. Common Bit Tasks: Getting and Setting
-    1. Chapter 6 | Math and Logic Puzzles
-        1. Prime Numbers
-        1. Probability
-        1. Start Talking
-        1. Develop Rules and Patterns
-        1. Worst Case Shifting
-        1. Algorithm Approaches
-    1. Chapter 7 | Object-Oriented Design
-        1. How to Approach
-        1. Design Patterns
-    1. Chapter 8 | Recursion and Dynamic Programming
-        1. How to Approach
-        1. Recursive vs. Iterative Solutions
-        1. Dynamic Programming & Memoization
-    1. Chapter 9 | System Design and Scalability
-        1. Handling the Questions
-        1. Design: Step-By-Step
-        1. Algorithms that Scale: Step-By-Step
-        1. Key Concepts
-        1. Consideration
-        1. There is no "perfect" system
-        1. Example Problem
-    1. Chapter 10 | Sorting and Searching
-        1. Commmon Sorting Algorithms
-        1. Searching Algorithms
-    1. Chapter 11 | Testing
-        1. What the Interviewer is Looking For
-        1. Testing a Real World Object
-        1. Testing a Piece of Software
-        1. Testing a Function
-        1. Troubleshooting Questions
-    - Knowledge Based
-    1. Chapter 12 | C and C++
-        1. Classes and Inheritance
-        1. Constructors and Destructors
-        1. Virtual Functions
-        1. Virtual Destructor
-        1. Default Values
-        1. Operator Overloading
-        1. Pointers and References
-        1. Templates
-    1. Chapter 13 | Java
-        1. How to Approach
-        1. Overloading vs. Overriding
-        1. Collection Framework
-    1. Chapter 14 | Databases
-        1. SQL Syntax and Variations
-        1. Denormalized vs Normalized Databases
-        1. SQL Statements
-        1. Small Database Design
-        1. Large Database Design
-    1. Chapter 15 | Threads and Locks
-        1. Threads in Java
-        1. Synchronization and Locks
-        1. Deadlocks and Deadlock Prevention
-    - Additional Review Problems
-    1. Chapter 16 | Moderate
-    1. Chapter 17 | Hard
+    - __Data Structures__
+        1. Chapter 1 | Arrays and Strings
+            1. Hash Tables
+            1. ArrayList & Resizable Arrays
+            1. StringBuilder
+        1. Chapter 2 | Linked Lists
+            1. Creating a Linked List
+            1. Deleting a Node from a Singly Linked List
+            1. The "Runner" Technique
+            1. Recursive Problems
+        1. Chapter 3 | Stacks and Queues
+            1. Implementing a Stack
+            1. Implementing a Queue
+        1. Chapter 4 | Tree and Graphs
+            1. Types of Trees
+            1. Binary Tree Traversal
+            1. Binary Heaps (Min-Heaps and Max-Heaps)
+            1. Tries (Prefix Trees)
+            1. Graphs
+            1. Graph Search
+    - __Concepts and Algorithms__
+        1. Chapter 5 | Bit Manipulation
+            1. Bit Manipulation By Hand
+            1. Bit Facts and Tricks
+            1. Two's Complement and Negative Numbers
+            1. Arithmetic vs. Logical Right Shift
+            1. Common Bit Tasks: Getting and Setting
+        1. Chapter 6 | Math and Logic Puzzles
+            1. Prime Numbers
+            1. Probability
+            1. Start Talking
+            1. Develop Rules and Patterns
+            1. Worst Case Shifting
+            1. Algorithm Approaches
+        1. Chapter 7 | Object-Oriented Design
+            1. How to Approach
+            1. Design Patterns
+        1. Chapter 8 | Recursion and Dynamic Programming
+            1. How to Approach
+            1. Recursive vs. Iterative Solutions
+            1. Dynamic Programming & Memoization
+        1. Chapter 9 | System Design and Scalability
+            1. Handling the Questions
+            1. Design: Step-By-Step
+            1. Algorithms that Scale: Step-By-Step
+            1. Key Concepts
+            1. Consideration
+            1. There is no "perfect" system
+            1. Example Problem
+        1. Chapter 10 | Sorting and Searching
+            1. Commmon Sorting Algorithms
+            1. Searching Algorithms
+        1. Chapter 11 | Testing
+            1. What the Interviewer is Looking For
+            1. Testing a Real World Object
+            1. Testing a Piece of Software
+            1. Testing a Function
+            1. Troubleshooting Questions
+    - __Knowledge Based__
+        1. Chapter 12 | C and C++
+            1. Classes and Inheritance
+            1. Constructors and Destructors
+            1. Virtual Functions
+            1. Virtual Destructor
+            1. Default Values
+            1. Operator Overloading
+            1. Pointers and References
+            1. Templates
+        1. Chapter 13 | Java
+            1. How to Approach
+            1. Overloading vs. Overriding
+            1. Collection Framework
+        1. Chapter 14 | Databases
+            1. SQL Syntax and Variations
+            1. Denormalized vs Normalized Databases
+            1. SQL Statements
+            1. Small Database Design
+            1. Large Database Design
+        1. Chapter 15 | Threads and Locks
+            1. Threads in Java
+            1. Synchronization and Locks
+            1. Deadlocks and Deadlock Prevention
+    - __Additional Review Problems__
+        1. Chapter 16 | Moderate
+        1. Chapter 17 | Hard
 1. Solutions
     1. Data Structures
     1. Concepts and Algorithms
