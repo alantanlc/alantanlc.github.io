@@ -103,7 +103,7 @@
     1. Negotiation
     1. On the Job
 1. Interview Questions
-    - __Data Structures__
+    - Data Structures
     1. Chapter 1 | Arrays and Strings
         1. Hash Tables
         1. ArrayList & Resizable Arrays
@@ -123,7 +123,7 @@
         1. Tries (Prefix Trees)
         1. Graphs
         1. Graph Search
-    - __Concepts and Algorithms__
+    - Concepts and Algorithms
     1. Chapter 5 | Bit Manipulation
         1. Bit Manipulation By Hand
         1. Bit Facts and Tricks
@@ -161,7 +161,7 @@
         1. Testing a Piece of Software
         1. Testing a Function
         1. Troubleshooting Questions
-    - __Knowledge Based__
+    - Knowledge Based
     1. Chapter 12 | C and C++
         1. Classes and Inheritance
         1. Constructors and Destructors
@@ -185,7 +185,7 @@
         1. Threads in Java
         1. Synchronization and Locks
         1. Deadlocks and Deadlock Prevention
-    - __Additional Review Problems__
+    - Additional Review Problems
     1. Chapter 16 | Moderate
     1. Chapter 17 | Hard
 1. Solutions
