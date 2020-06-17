@@ -40,6 +40,59 @@
 
 - AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
+### Site Reliability Engineering
+
+#### Part I - Introduction
+1. Chapter 1 - Introduction
+1. Chapter 2 - The Production Environment at Google, from the Viewpoint of an SRE
+
+#### Part II - Principles
+1. Chapter 3 - Embracing Risk
+1. Chapter 4 - Service Level Objectives
+1. Chapter 5 - Eliminating Toil
+1. Chapter 6 - Monitoring Distributed Systems
+1. Chapter 7 - The Evolution of Automation at Google
+1. Chapter 8 - Release Engineering
+1. Chapter 9 - Simplicity
+
+#### Part III - Practices
+1. Chapter 10 - Practical Alerting
+1. Chapter 11 - Being On-Call
+1. Chapter 12 - Effective Troubleshooting
+1. Chapter 13 - Emergency Response
+1. Chapter 14 - Managing Incidents
+1. Chapter 15 - Postmortem Culture: Learning from Failure
+1. Chapter 16 - Tracking Outages
+1. Chapter 17 - Testing for Reliability
+1. Chapter 18 - Software Engineering in SRE
+1. Chapter 19 - Load Balancing at the Frontend
+1. Chapter 20 - Load Balancing in the Datacenter
+1. Chapter 21 - Handling Overload
+1. Chapter 22 - Addressing Cascading Failures
+1. Chapter 23 - Managing Critical State: Distributed Consensus for Reliability
+1. Chapter 24 - Distributed Periodic Scheduling with Cron
+1. Chapter 25 - Data Processing Pipelines
+1. Chapter 26 - Data Integrity: What You Read is What You Wrote
+1. Chapter 27 - Reliable Product Launches at Scale
+
+#### Part IV - Management
+1. Chapter 28 - Accelerating SREs to On-Call and Beyond
+1. Chapter 29 - Dealing with Interrupts
+1. Chapter 30 - Embedding an SRE to Recover from Operational Overload
+1. Chapter 31 - Communication and Collaboration in SRE
+1. Chapter 32 - The Evolving SRE Engagement Model
+
+#### Part V - Conclusions
+1. Chapter 33 - Lesson Learned from Other Industries
+1. Chapter 34 - Conclusion
+1. Appendix A - Availability Table
+1. Appendix B - A Collection of Best Practices for Production Services
+1. Appendix C - Example Incident State Document
+1. Appendix D - Example Postmortem
+1. Appendix E - Launch Coordination Checklist
+1. Appendix F - Example Production Meeting Minutes
+1. Bibliography
+
 ### Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions
 
 1. ~~The Interview Process~~
