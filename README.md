@@ -26,7 +26,7 @@
 [[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
 - 2020 - ADS-B Over Satellite
 [[slides]](https://docs.google.com/presentation/d/1nhatJ_gas8Im0c9SX1xv_7RMmdjL9Wx40qy30u1mus8/edit?usp=sharing)
-- 2019 - Historgram Backprojection
+- 2019 - Histogram Backprojection
 [[code]](https://github.com/alanwuha/histogram-backprojection)
 - 2019 - CheXpert
 [[code]](https://github.com/alanwuha/ce7454-grp17)
