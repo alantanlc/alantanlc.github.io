@@ -15,15 +15,26 @@
 
 - 2020 - NTU Courses
 [[website]](https://ntucourses.com)
-[[code](https://github.com/alanwuha/ntumods)]
+[[code]](https://github.com/alanwuha/ntumods)
+- 2020 - Installing WordPress on Amazon EC2 using Docker Compose
+[[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 - 2020 - Commonsense Reasoning Using Current NLP Landscape
 [[video]](https://www.dropbox.com/s/zlsi8njzdjyoi2g/video.mov?dl=0)
 [[code]](https://github.com/alanwuha/ce7455-project)
 [[report]](https://www.dropbox.com/s/4wuqg2u94wa56kn/report.pdf?dl=0)
 [[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
+- 2020 - ADS-B Over Satellite
+[[slides]](https://docs.google.com/presentation/d/1nhatJ_gas8Im0c9SX1xv_7RMmdjL9Wx40qy30u1mus8/edit?usp=sharing)
+- 2019 - CheXpert
+[[code]](https://github.com/alanwuha/ce7454-grp17)
+[[slides]](https://docs.google.com/presentation/d/16nar6Ccq9S9ukXAOgCvyyJbcMHaLQ9GGi6T-RyDAqaA/edit?usp=sharing)
+[[notebook]](https://colab.research.google.com/drive/1ixLTm79T42UCSPlFpoiJT5ZSCCRBTvvb?usp=sharing)
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
+- 2017 - Book Recommendation Engine Based on User's Tweets
+[[code]](https://github.com/rahul99/PRE-Guide)
+[[report]](https://drive.google.com/file/d/1_fZz4ciVWD8G_sCvMwhAoGFTUv2QfEsF/view?usp=sharing)
 - 2017 - Mobile Video Capture and Uploader
 [[code]](https://github.com/alanwuha/cs5248-mobile-video-capture-and-uploader)
 [[report]](https://docs.google.com/document/d/1x3rXJPHQrA1tJ0K0jXE6vis13rrRNYsxchmNQpwFFvI/edit?usp=sharing)
@@ -35,6 +46,8 @@
 [[code]](https://github.com/alanwuha/virtual-piano)
 [[report]](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)
 [[slides]](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)
+- 2012 - Signal Path Profile Calculator
+[[code]](https://github.com/alanwuha/signal-path-profile-calculator)
 
 ### Teaching Courses
 
