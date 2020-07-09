@@ -50,9 +50,13 @@
 - 2012 - Signal Path Profile Calculator
 [[code]](https://github.com/alanwuha/signal-path-profile-calculator)
 
+<hr style="height: 0.05rem;" />
+
 ### Teaching Courses
 
 - AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
+
+<hr style="height: 0.05rem;" />
 
 ### Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions
 
