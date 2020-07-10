@@ -1,4 +1,4 @@
-<img src="./profile_pic.png" width="150px">
+<img src="./profile_pic.png" width="150px"> 
 
 ### Alan Tan
 
@@ -16,7 +16,7 @@
 - 2020 - NTU Courses
 [[website]](https://ntucourses.com)
 [[code]](https://github.com/alanwuha/ntumods)
-<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Django, PostgreSQL, GCP</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Python, Django, PostgreSQL, GCP</span>
 - 2020 - Installing WordPress on Amazon EC2 using Docker Compose
 [[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 [[slides]](https://docs.google.com/presentation/d/1CbiCGDHpKymM1GYhtt89hthqttz6-MkBhCCub9Klo8U/edit?usp=sharing)
@@ -26,7 +26,7 @@
 [[code]](https://github.com/alanwuha/ce7455-project)
 [[report]](https://www.dropbox.com/s/4wuqg2u94wa56kn/report.pdf?dl=0)
 [[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
-<span style='color: gray; font-style: italic; font-size: 8pt;'>PyTorch, HuggingFace</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Python, PyTorch, HuggingFace</span>
 - 2020 - ADS-B Over Satellite
 [[slides]](https://docs.google.com/presentation/d/1nhatJ_gas8Im0c9SX1xv_7RMmdjL9Wx40qy30u1mus8/edit?usp=sharing)
 - 2019 - Histogram Backprojection
@@ -36,9 +36,9 @@
 [[code]](https://github.com/alanwuha/ce7454-grp17)
 [[slides]](https://docs.google.com/presentation/d/16nar6Ccq9S9ukXAOgCvyyJbcMHaLQ9GGi6T-RyDAqaA/edit?usp=sharing)
 [[notebook]](https://colab.research.google.com/drive/1ixLTm79T42UCSPlFpoiJT5ZSCCRBTvvb?usp=sharing)
-<span style='color: gray; font-style: italic; font-size: 8pt;'>PyTorch, NumPy, Pandas</span>
-- 2019 - New Product Approval Workflow
-<span style='color: gray; font-style: italic; font-size: 8pt;'>Angular2+, MaterialUI, Spring Boot, MS SQL, Apache Tomcat, Jenkins, GitLab</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Python, PyTorch, NumPy, Pandas</span>
+- 2019 - New Product Approval Workflow Application
+<span style='color: gray; font-style: italic; font-size: 8pt;'>JavaScript, Java, Angular2+, MaterialUI, Spring Boot, MS SQL, Apache Tomcat, Jenkins, GitLab</span>
 - 2018 - Multi-Channel Waveform Generation Module using GPU
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>C++, CUDA, Boost, Intel IPP, MATLAB, gRPC, GitLab</span>
