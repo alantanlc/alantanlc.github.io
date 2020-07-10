@@ -32,6 +32,8 @@
 [[code]](https://github.com/alanwuha/ce7454-grp17)
 [[slides]](https://docs.google.com/presentation/d/16nar6Ccq9S9ukXAOgCvyyJbcMHaLQ9GGi6T-RyDAqaA/edit?usp=sharing)
 [[notebook]](https://colab.research.google.com/drive/1ixLTm79T42UCSPlFpoiJT5ZSCCRBTvvb?usp=sharing)
+- 2018 - Multi-Channel Waveform Generation Module using GPU
+[[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
@@ -43,6 +45,8 @@
 [[report]](https://docs.google.com/document/d/1x3rXJPHQrA1tJ0K0jXE6vis13rrRNYsxchmNQpwFFvI/edit?usp=sharing)
 - 2017 - Distributed Maze Game
 [[code]](https://github.com/alanwuha/cs5223-distributed-maze-game)
+- 2017 - Signal Acquisition and Evaluation Module in C++
+[[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 - 2016 - Virtual Piano
 [[video]](https://www.youtube.com/watch?v=YjFS944_Vl4)
 [[news]](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)
