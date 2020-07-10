@@ -32,7 +32,7 @@
 [[code]](https://github.com/alanwuha/ce7454-grp17)
 [[slides]](https://docs.google.com/presentation/d/16nar6Ccq9S9ukXAOgCvyyJbcMHaLQ9GGi6T-RyDAqaA/edit?usp=sharing)
 [[notebook]](https://colab.research.google.com/drive/1ixLTm79T42UCSPlFpoiJT5ZSCCRBTvvb?usp=sharing)
-- 2019 - New Product Workflow Web Application
+- 2019 - New Product Approval Workflow Application
 - 2018 - Multi-Channel Waveform Generation Module using GPU
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 - 2017 - Music Genre Classification using Machine Learning
