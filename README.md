@@ -13,9 +13,10 @@
 
 ### Projects
 
-- 2020 - NTU Courses
+- :fox_face: 2020 - NTU Courses
 [[website]](https://ntucourses.com)
 [[code]](https://github.com/alanwuha/ntumods)
+<span style='color: gray'>ReactJS, Bootstrap, Django, PostgreSQL, GCP</span>
 - 2020 - Installing WordPress on Amazon EC2 using Docker Compose
 [[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 [[slides]](https://docs.google.com/presentation/d/1CbiCGDHpKymM1GYhtt89hthqttz6-MkBhCCub9Klo8U/edit?usp=sharing)
