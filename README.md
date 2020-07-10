@@ -16,60 +16,60 @@
 - 2020 - NTU Courses
 [[website]](https://ntucourses.com)
 [[code]](https://github.com/alanwuha/ntumods)
-<span style='color: gray; font-style: italic'>ReactJS, Bootstrap, Django, PostgreSQL, GCP</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Django, PostgreSQL, GCP</span>
 - 2020 - Installing WordPress on Amazon EC2 using Docker Compose
 [[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 [[slides]](https://docs.google.com/presentation/d/1CbiCGDHpKymM1GYhtt89hthqttz6-MkBhCCub9Klo8U/edit?usp=sharing)
-<span style='color: gray; font-style: italic'>Docker, AWS, Ubuntu, Bash</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Docker, AWS, Ubuntu, Bash</span>
 - 2020 - Commonsense Reasoning Using Current NLP Landscape
 [[video]](https://www.dropbox.com/s/zlsi8njzdjyoi2g/video.mov?dl=0)
 [[code]](https://github.com/alanwuha/ce7455-project)
 [[report]](https://www.dropbox.com/s/4wuqg2u94wa56kn/report.pdf?dl=0)
 [[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
-<span style='color: gray; font-style: italic'>PyTorch, HuggingFace</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>PyTorch, HuggingFace</span>
 - 2020 - ADS-B Over Satellite
 [[slides]](https://docs.google.com/presentation/d/1nhatJ_gas8Im0c9SX1xv_7RMmdjL9Wx40qy30u1mus8/edit?usp=sharing)
 - 2019 - Histogram Backprojection
 [[code]](https://github.com/alanwuha/histogram-backprojection)
-<span style='color: gray; font-style: italic'>MATLAB</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>MATLAB</span>
 - 2019 - CheXpert
 [[code]](https://github.com/alanwuha/ce7454-grp17)
 [[slides]](https://docs.google.com/presentation/d/16nar6Ccq9S9ukXAOgCvyyJbcMHaLQ9GGi6T-RyDAqaA/edit?usp=sharing)
 [[notebook]](https://colab.research.google.com/drive/1ixLTm79T42UCSPlFpoiJT5ZSCCRBTvvb?usp=sharing)
-<span style='color: gray; font-style: italic'>PyTorch, NumPy, Pandas</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>PyTorch, NumPy, Pandas</span>
 - 2019 - New Product Approval Workflow
-<span style='color: gray; font-style: italic'>Angular2+, MaterialUI, Spring Boot, MS SQL, Apache Tomcat, Jenkins, GitLab</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Angular2+, MaterialUI, Spring Boot, MS SQL, Apache Tomcat, Jenkins, GitLab</span>
 - 2018 - Multi-Channel Waveform Generation Module using GPU
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
-<span style='color: gray; font-style: italic'>C++, CUDA, Boost, Intel IPP, MATLAB, gRPC</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>C++, CUDA, Boost, Intel IPP, MATLAB, gRPC</span>
 - 2017 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
-<span style='color: gray; font-style: italic'>WEKA, Scikit-Learn, Bootstrap, NodeJS</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>WEKA, Scikit-Learn, Bootstrap, NodeJS</span>
 - 2017 - Book Recommendation Engine Based on User's Tweets
 [[code]](https://github.com/rahul99/PRE-Guide)
 [[report]](https://drive.google.com/file/d/1_fZz4ciVWD8G_sCvMwhAoGFTUv2QfEsF/view?usp=sharing)
-<span style='color: gray; font-style: italic'>Twitter API, Scikit-Learn, Bootstrap, NodeJS</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Twitter API, Scikit-Learn, Bootstrap, NodeJS</span>
 - 2017 - Mobile Video Capture and Uploader
 [[code]](https://github.com/alanwuha/cs5248-mobile-video-capture-and-uploader)
 [[report]](https://docs.google.com/document/d/1x3rXJPHQrA1tJ0K0jXE6vis13rrRNYsxchmNQpwFFvI/edit?usp=sharing)
-<span style='color: gray; font-style: italic'>Android</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Android</span>
 - 2017 - Distributed Maze Game
 [[code]](https://github.com/alanwuha/cs5223-distributed-maze-game)
-<span style='color: gray; font-style: italic'>Java, Java RMI</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Java, Java RMI</span>
 - 2017 - Signal Acquisition and Evaluation Module in C++
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
-<span style='color: gray; font-style: italic'>C++, Intel IPP, MATLAB, Apache ThriftRPC</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>C++, Intel IPP, MATLAB, Apache ThriftRPC</span>
 - 2016 - Virtual Piano
 [[video]](https://www.youtube.com/watch?v=YjFS944_Vl4)
 [[news]](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)
 [[code]](https://github.com/alanwuha/virtual-piano)
 [[report]](https://docs.google.com/document/d/1GYiKimrhumRyQGITo2OWcA_YV94Udv0gRgKmAjKgGwE/edit?usp=sharing)
 [[slides]](https://docs.google.com/presentation/d/1JQqFbdLq8pyUItP8OQpeC4iTftyl53VYoEmhwIUfFBc/edit)
-<span style='color: gray; font-style: italic'>Android, OpenCV</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Android, OpenCV</span>
 - 2012 - Signal Path Profile Calculator
 [[code]](https://github.com/alanwuha/signal-path-profile-calculator)
-<span style='color: gray; font-style: italic'>JavaScript, HTML, CSS</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>JavaScript, HTML, CSS</span>
 
 <hr style="height: 0.05rem;" />
 
