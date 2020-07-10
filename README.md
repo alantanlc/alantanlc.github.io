@@ -42,11 +42,11 @@
 - 2018 - Multi-Channel Waveform Generation Module using GPU
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>C++, CUDA, Boost, Intel IPP, MATLAB, gRPC, GitLab</span>
-- 2017 - Music Genre Classification using Machine Learning
+- 2018 - Music Genre Classification using Machine Learning
 [[code]](https://github.com/alanwuha/cs4347-music-genre-classification)
 [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Python, JavaScript, WEKA, Scikit-Learn, Bootstrap, NodeJS</span>
-- 2017 - Book Recommendation Engine Based on User's Tweets
+- 2018 - Book Recommendation Engine Based on User's Tweets
 [[code]](https://github.com/rahul99/PRE-Guide)
 [[report]](https://drive.google.com/file/d/1_fZz4ciVWD8G_sCvMwhAoGFTUv2QfEsF/view?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Python, JavaScript, Twitter API, Scikit-Learn, Bootstrap, NodeJS</span>
