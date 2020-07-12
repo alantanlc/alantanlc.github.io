@@ -152,13 +152,13 @@
             1. ~~Deleting a Node from a Singly Linked List~~
             1. ~~The "Runner" Technique~~
             1. ~~Recursive Problems~~
-        1. Chapter 3 Stacks and Queues
-            1. Implementing a Stack
-            1. Implementing a Queue
+        1. ~~Chapter 3 Stacks and Queues~~
+            1. ~~Implementing a Stack~~
+            1. ~~Implementing a Queue~~
         1. Chapter 4 Tree and Graphs
-            1. Types of Trees
-            1. Binary Tree Traversal
-            1. Binary Heaps (Min-Heaps and Max-Heaps)
+            1. ~~Types of Trees~~
+            1. ~~Binary Tree Traversal~~
+            1. ~~Binary Heaps (Min-Heaps and Max-Heaps)~~
             1. Tries (Prefix Trees)
             1. Graphs
             1. Graph Search
@@ -184,12 +184,12 @@
             1. Recursive vs. Iterative Solutions
             1. Dynamic Programming & Memoization
         1. Chapter 9 System Design and Scalability
-            1. Handling the Questions
-            1. Design: Step-By-Step
-            1. Algorithms that Scale: Step-By-Step
-            1. Key Concepts
-            1. Consideration
-            1. There is no "perfect" system
+            1. ~~Handling the Questions~~
+            1. ~~Design: Step-By-Step~~
+            1. ~~Algorithms that Scale: Step-By-Step~~
+            1. ~~Key Concepts~~
+            1. ~~Consideration~~
+            1. ~~There is no "perfect" system~~
             1. Example Problem
         1. Chapter 10 Sorting and Searching
             1. Commmon Sorting Algorithms
