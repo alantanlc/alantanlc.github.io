@@ -27,6 +27,8 @@
 [[report]](https://www.dropbox.com/s/4wuqg2u94wa56kn/report.pdf?dl=0)
 [[slides]](https://www.dropbox.com/s/l67rncbbebifpkk/slides.pptx?dl=0)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Python, PyTorch, HuggingFace</span>
+- 2020 - Deep Learning for Natural Language Processing [[code]](https://github.com/alanwuha/ce7455-nlp)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Python, PyTorch</span>
 - 2020 - ADS-B Over Satellite
 [[slides]](https://docs.google.com/presentation/d/1nhatJ_gas8Im0c9SX1xv_7RMmdjL9Wx40qy30u1mus8/edit?usp=sharing)
 - 2019 - Histogram Backprojection
