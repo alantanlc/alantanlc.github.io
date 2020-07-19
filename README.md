@@ -181,10 +181,10 @@
         1. Chapter 7 Object-Oriented Design
             1. How to Approach
             1. Design Patterns
-        1. Chapter 8 Recursion and Dynamic Programming
-            1. ~How to Approach~
-            1. ~Recursive vs. Iterative Solutions~
-            1. ~Dynamic Programming & Memoization~
+        1. ~~Chapter 8 Recursion and Dynamic Programming~~
+            1. ~~How to Approach~~
+            1. ~~Recursive vs. Iterative Solutions~~
+            1. ~~Dynamic Programming & Memoization~~
         1. Chapter 9 System Design and Scalability
             1. ~~Handling the Questions~~
             1. ~~Design: Step-By-Step~~
@@ -203,15 +203,15 @@
             1. Testing a Function
             1. Troubleshooting Questions
     - __Knowledge Based__
-        1. ~Chapter 12 C and C++~
-            1. ~Classes and Inheritance~
-            1. ~Constructors and Destructors~
-            1. ~Virtual Functions~
-            1. ~Virtual Destructor~
-            1. ~Default Values~
-            1. ~Operator Overloading~
-            1. ~Pointers and References~
-            1. ~Templates~
+        1. Chapter 12 C and C++
+            1. ~~Classes and Inheritance~~
+            1. ~~Constructors and Destructors~~
+            1. ~~Virtual Functions~~
+            1. Virtual Destructor
+            1. Default Values
+            1. Operator Overloading
+            1. Pointers and References
+            1. Templates
         1. Chapter 13 Java
             1. How to Approach
             1. Overloading vs. Overriding
@@ -238,10 +238,10 @@
     1. Useful Math
     1. Topological Sort
     1. Dijkstra's Algorithm
-    1. ~Hash Table Collision Resolution~
+    1. ~~Hash Table Collision Resolution~~
     1. Rabin-Karp Substring Search
     1. AVL Trees
-    1. ~Red-Black Trees~
+    1. ~~Red-Black Trees~~
     1. MapReduce
     1. Additional Studying
 1. Code Library
