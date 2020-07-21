@@ -166,7 +166,7 @@
             1. Graph Search
     - __Concepts and Algorithms__
         1. Chapter 5 Bit Manipulation
-            1. Bit Manipulation By Hand
+            1. ~~Bit Manipulation By Hand~~
             1. Bit Facts and Tricks
             1. Two's Complement and Negative Numbers
             1. Arithmetic vs. Logical Right Shift
