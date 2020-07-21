@@ -207,11 +207,11 @@
             1. ~~Classes and Inheritance~~
             1. ~~Constructors and Destructors~~
             1. ~~Virtual Functions~~
-            1. Virtual Destructor
-            1. Default Values
-            1. Operator Overloading
-            1. Pointers and References
-            1. Templates
+            1. ~~Virtual Destructor~~
+            1. ~~Default Values~~
+            1. ~~Operator Overloading~~
+            1. ~~Pointers and References~~
+            1. ~~Templates~~
         1. Chapter 13 Java
             1. How to Approach
             1. Overloading vs. Overriding
