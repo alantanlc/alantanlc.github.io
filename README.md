@@ -193,9 +193,9 @@
             1. ~~Consideration~~
             1. ~~There is no "perfect" system~~
             1. Example Problem
-        1. Chapter 10 Sorting and Searching
-            1. Commmon Sorting Algorithms
-            1. Searching Algorithms
+        1. ~~Chapter 10 Sorting and Searching~~
+            1. ~~Commmon Sorting Algorithms~~
+            1. ~~Searching Algorithms~~
         1. Chapter 11 Testing
             1. What the Interviewer is Looking For
             1. Testing a Real World Object
@@ -212,10 +212,10 @@
             1. ~~Operator Overloading~~
             1. ~~Pointers and References~~
             1. ~~Templates~~
-        1. Chapter 13 Java
-            1. How to Approach
-            1. Overloading vs. Overriding
-            1. Collection Framework
+        1. ~~Chapter 13 Java~~
+            1. ~~How to Approach~~
+            1. ~~Overloading vs. Overriding~~
+            1. ~~Collection Framework~~
         1. Chapter 14 Databases
             1. SQL Syntax and Variations
             1. Denormalized vs Normalized Databases
