@@ -21,6 +21,9 @@
 [[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 [[slides]](https://docs.google.com/presentation/d/1CbiCGDHpKymM1GYhtt89hthqttz6-MkBhCCub9Klo8U/edit?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Docker, Prometheus, Grafana, Ubuntu, Bash, AWS</span>
+- 2020 - Employee Salary Management System
+[[code]](https://github.com/alanwuha/employee-salary)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Python Django, PostgreSQL, Docker</span>
 - 2020 - Commonsense Reasoning Using Current NLP Landscape
 [[video]](https://www.dropbox.com/s/zlsi8njzdjyoi2g/video.mov?dl=0)
 [[code]](https://github.com/alanwuha/ce7455-project)
