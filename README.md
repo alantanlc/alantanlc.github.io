@@ -62,6 +62,9 @@
 - 2017 - Distributed Maze Game
 [[code]](https://github.com/alanwuha/cs5223-distributed-maze-game)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Java, RMI</span>
+- 2017 - Designing Scalable Applications with Events and Threads
+[[report]](https://docs.google.com/document/d/1amYaUsTYFITGfM8j2hAr8KcMA8LG_TqGVdRXl5f9BVQ/edit?usp=sharing)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Server architecture</span>
 - 2017 - Signal Acquisition and Evaluation Module in C++
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>C++, Intel IPP, MATLAB, Apache ThriftRPC, GitLab</span>
