@@ -65,6 +65,9 @@
 - 2017 - Signal Acquisition and Evaluation Module in C++
 [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>C++, Intel IPP, MATLAB, Apache ThriftRPC, GitLab</span>
+- 2017 - Meeting C++ Conference @ Germany, Berlin
+[[report]](https://docs.google.com/document/d/1MFwvmzgU-vcX07_vkeCEtnUphofIZqmdSmc2Iz-Nm7w/edit?usp=sharing)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>C++</span>
 - 2016 - Virtual Piano
 [[video]](https://www.youtube.com/watch?v=YjFS944_Vl4)
 [[news]](http://scse.ntu.edu.sg/NewsnEvents/Pages/News-Detail.aspx?news=067b6f2f-27ec-409a-a38a-3b61e6ccd129)
