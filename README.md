@@ -1,4 +1,4 @@
-<img src="./profile_pic.png" width="150px"> 
+<img src="./profile_pic_300_300.png" width="150px"> 
 
 ### Alan Tan
 
