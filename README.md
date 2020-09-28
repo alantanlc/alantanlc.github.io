@@ -19,6 +19,7 @@
 <span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Python, Django, PostgreSQL, AWS, Ubuntu 20.04, nginx, gunicorn, Let's Encrypt, Certbot</span>
 - 2020 - Autocommit
 [[code]](https://github.com/alanwuha/autocommit)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Bourne Again Shell (BASH)</span>
 - 2020 - Installing WordPress on Amazon EC2 using Docker Compose
 [[code]](https://github.com/alanwuha/wordpress-docker-ec2)
 [[slides]](https://docs.google.com/presentation/d/1CbiCGDHpKymM1GYhtt89hthqttz6-MkBhCCub9Klo8U/edit?usp=sharing)
