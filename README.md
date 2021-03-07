@@ -13,6 +13,10 @@
 
 ### Projects
 
+- 2021 - Git Pull
+[[code]](https://github.com/alanwuha/git-pull)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Bourne Again
+Shell (BASH)</span>
 - 2020 - NTU Courses
 [[website]](https://ntucourses.com)
 [[code]](https://github.com/alanwuha/ntumods)
