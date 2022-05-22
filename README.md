@@ -13,8 +13,8 @@
 
 ### Posts
 
-- 2022/05/26 - How to write JUnit tests quickly using Mocks
-[[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-junit-tests-quickly-using-mocks)
+- May 26, 2022 - How to write JUnit tests using Mocks
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-junit-tests-using-mocks)
 
 ### Projects
 
