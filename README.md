@@ -13,8 +13,8 @@
 
 ### Posts
 
-- May 22, 2022 - How to write JUnit tests using Mocks
-[[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-junit-tests-using-mocks)
+- May 22, 2022 - How to write Spring JUnit tests using @InjectMocks and @Mock
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-spring-junit-tests-using-injectmocks-and-mock)
 
 ### Projects
 
