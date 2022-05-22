@@ -11,6 +11,11 @@
 
 <hr style="height: 0.05rem;" />
 
+### Posts
+
+- 2022/05/26 - How to write JUnit tests quickly using Mocks
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-junit-tests-quickly-using-mocks)
+
 ### Projects
 
 - 2021 - Git Pull
