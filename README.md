@@ -13,8 +13,12 @@
 
 ### Posts
 
-- May 22, 2022 - How to write Spring JUnit tests using @InjectMocks and @Mock
+- May 23, 2022 - Difference between `doReturn` and `thenReturn` in Mockito 
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/difference-between-doreturn-and-thenreturn-in-mockito)
+- May 22, 2022 - How to write Spring JUnit tests using `@InjectMocks` and `@Mock`
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/how-to-write-spring-junit-tests-using-injectmocks-and-mock)
+
+<hr style="height: 0.05rem;" />
 
 ### Projects
 
