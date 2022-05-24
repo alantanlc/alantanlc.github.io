@@ -13,7 +13,8 @@
 
 ### Posts
 
-- May 24, 2022 - Maintaining Workflow Statuses For A Microservice Architecture[[link]](https://github.com/alanwuha/blog/tree/main/posts/maintaining-workflow-statuses-for-a-microservice-architecture)
+- May 24, 2022 - Maintaining Workflow Statuses For A Microservice Architecture
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/maintaining-workflow-statuses-for-a-microservice-architecture)
 - May 24, 2022 - Scalable classes using Spring `@Component` and `@Autowired`
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/scalable-classes-using-spring-component-and-autowired)
 - May 23, 2022 - Difference between `doReturn` and `thenReturn` in Mockito 
