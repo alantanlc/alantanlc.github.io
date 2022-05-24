@@ -13,6 +13,8 @@
 
 ### Posts
 
+- May 24, 2022 - Scalable classes using Spring `@Component` and `@Autowired`
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/scalable-classes-using-spring-component-and-autowired)
 - May 23, 2022 - Difference between `doReturn` and `thenReturn` in Mockito 
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/difference-between-doreturn-and-thenreturn-in-mockito)
 - May 22, 2022 - How to write Spring JUnit tests using `@InjectMocks` and `@Mock`
