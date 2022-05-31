@@ -13,6 +13,8 @@
 
 ### Posts
 
+- June 1, 2022 - Implementing A Service That Toggles Between Cache and Database
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/implementing-a-service-that-toggles-between-cache-and-database)
 - May 31, 2022 - Implementing A Workflow Framework
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/implementing-a-workflow-framework)
 - May 24, 2022 - Maintaining Workflow Statuses For A Microservice Architecture
@@ -30,7 +32,7 @@
 
 - 2022 - Spring Test Writer
 [[code]](https://github.com/alanwuha/spring-test-writer)
-<span style='color: gray; font-style: italic; font-size: 8pt;'>Python</span>
+<span style='color: gray; font-style: italic; font-size: 8pt;'>Spring Boot, Java, Python</span>
 - 2021 - Git Pull
 [[code]](https://github.com/alanwuha/git-pull)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Bourne Again
