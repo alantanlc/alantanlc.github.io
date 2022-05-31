@@ -13,6 +13,8 @@
 
 ### Posts
 
+- May 31, 2022 - Implement A Workflow Framework
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/implement-a-workflow-framework)
 - May 24, 2022 - Maintaining Workflow Statuses For A Microservice Architecture
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/maintaining-workflow-statuses-for-a-microservice-architecture)
 - May 24, 2022 - Scalable classes using Spring `@Component` and `@Autowired`
