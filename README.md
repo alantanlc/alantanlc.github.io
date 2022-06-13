@@ -13,6 +13,8 @@
 
 ### Posts
 
+- June 13, 2022 - Code Coverage With IntelliJ, Jacoco and SonarQube
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/code-coverage-with-intellij-jacoco-and-sonarqube)
 - June 4, 2022 - Working With Strings In Java
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/working-with-strings-in-java)
 - June 1, 2022 - Implementing A Service That Toggles Between Cache and Database
