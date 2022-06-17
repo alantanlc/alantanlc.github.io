@@ -34,6 +34,9 @@
 
 ### Projects
 
+- 2022 - Payslip
+[[code]](https://github.com/alanwuha/payslip)
+<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Django, PostgreSQL, AWS</span>
 - 2022 - Spring Test Writer
 [[code]](https://github.com/alanwuha/spring-test-writer)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Spring Boot, Java, Python</span>
