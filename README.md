@@ -12,6 +12,8 @@
 
 ### Posts
 
+- June 21, 2022 - Liquibase
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/liquibase)
 - June 16, 2022 - Git Commands
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/git-commands)
 - June 13, 2022 - Code Coverage With IntelliJ, Jacoco and SonarQube
