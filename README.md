@@ -12,6 +12,8 @@
 
 ### Posts
 
+- June 23, 2022 - Event-Drive Microservice Architecture
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/event-driven-microservice-architecture)
 - June 21, 2022 - Liquibase
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/liquibase)
 - June 16, 2022 - Git Commands
