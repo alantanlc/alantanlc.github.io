@@ -12,6 +12,8 @@
 
 ### Posts
 
+- June 24, 2022 - Resolving Maven Dependencies Using IntelliJ
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/resolving-maven-dependencies-using-intellij)
 - June 23, 2022 - Event-Driven Microservice Architecture
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/event-driven-microservice-architecture)
 - June 21, 2022 - Liquibase
