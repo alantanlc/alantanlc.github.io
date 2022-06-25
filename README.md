@@ -12,6 +12,8 @@
 
 ### Posts
 
+- June 25, 2022 - Kafka
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/kafka)
 - June 24, 2022 - Resolving Maven Dependencies Using IntelliJ
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/resolving-maven-dependencies-using-intellij)
 - June 23, 2022 - Event-Driven Microservice Architecture
