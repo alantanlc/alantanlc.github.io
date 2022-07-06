@@ -12,6 +12,8 @@
 
 ### Posts
 
+- July 7, 2022 - Parsing Nest Data Structures
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/parsing-nested-data-structures)
 - June 25, 2022 - Kafka
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/kafka)
 - June 24, 2022 - Resolving Maven Dependencies Using IntelliJ
