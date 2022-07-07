@@ -12,7 +12,7 @@
 
 ### Posts
 
-- July 7, 2022 - Parsing Nest Data Structures
+- July 7, 2022 - Parsing Nested Data Structures
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/parsing-nested-data-structures)
 - June 25, 2022 - Kafka
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/kafka)
