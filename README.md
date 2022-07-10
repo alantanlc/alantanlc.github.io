@@ -14,6 +14,8 @@ Just keep trying.
 
 ### Posts
 
+- July 10, 2022 - Deploying app using `cf push`
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/deploying-app-using-cf-push)
 - July 7, 2022 - Parsing Nested Data Structures
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/parsing-nested-data-structures)
 - June 25, 2022 - Kafka
