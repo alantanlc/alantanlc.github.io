@@ -3,6 +3,8 @@
 
 <small style="display:block; margin-top: -1rem; font-size: 11pt; font-weight: normal; color: grey;">@alanwuha</small>
 
+Just keep trying.
+
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
 [[GitHub](https://github.com/alanwuha)]
 [[LinkedIn](https://www.linkedin.com/in/alanwuha/)]
