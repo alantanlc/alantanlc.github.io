@@ -14,6 +14,8 @@ Just keep trying.
 
 ### Posts
 
+- July 11, 2022 - Config Service
+[[link]](https://github.com/alanwuha/blog/tree/main/posts/config-service)
 - July 10, 2022 - Deploying app using `cf push`
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/deploying-app-using-cf-push)
 - July 7, 2022 - Parsing Nested Data Structures
