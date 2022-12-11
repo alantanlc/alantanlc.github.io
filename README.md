@@ -14,6 +14,9 @@ Just keep trying.
 
 ### Posts
 
+
+- Dec 12, 2022 - Real-time processor framework [[link]](https://github.com/alanwuha/blog/tree/main/posts/real-time-processor-framework)
+- Dec 12, 2022 - Simple round-robin algorithm [[link]](https://github.com/alanwuha/blog/tree/main/posts/simple-round-robin-algorithm)
 - July 11, 2022 - Config Service
 [[link]](https://github.com/alanwuha/blog/tree/main/posts/config-service)
 - July 10, 2022 - Deploying app using `cf push`
@@ -51,8 +54,6 @@ Just keep trying.
 
 ### Projects
 
-- 2022 - Payslip
-[[code]](https://github.com/alanwuha/payslip)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Django, PostgreSQL, AWS, Terraform</span>
 - 2022 - Spring Test Writer
 [[code]](https://github.com/alanwuha/spring-test-writer)
