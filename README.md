@@ -6,14 +6,12 @@
 Just keep trying.
 
 [[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
-[[GitHub](https://github.com/alanwuha)]
-[[LinkedIn](https://www.linkedin.com/in/alanwuha/)]
-[[LeetCode](https://leetcode.com/alanwuha/)]
+[[GitHub](https://github.com/alantanlc)]
+[[LinkedIn](https://www.linkedin.com/in/alantanlc/)]
 
 <hr style="height: 0.05rem;" />
 
 ### Posts
-
 
 - Dec 12, 2022 - Real-time processor framework [[link]](https://github.com/alanwuha/blog/tree/main/posts/real-time-processor-framework)
 - Dec 12, 2022 - Simple round-robin algorithm [[link]](https://github.com/alanwuha/blog/tree/main/posts/simple-round-robin-algorithm)
@@ -54,7 +52,6 @@ Just keep trying.
 
 ### Projects
 
-<span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Django, PostgreSQL, AWS, Terraform</span>
 - 2022 - Spring Test Writer
 [[code]](https://github.com/alanwuha/spring-test-writer)
 <span style='color: gray; font-style: italic; font-size: 8pt;'>Spring Boot, Java, Python</span>
