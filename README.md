@@ -144,3 +144,8 @@ Just keep trying.
 ### Teaching Courses
 
 - AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
+
+### Books
+
+- Feb 2023 - The 4-Hour Work Week [[link]](https://fourhourworkweek.com/)
+- Feb 2023 - The Third Door [[link]](https://thirddoorbook.com/)
