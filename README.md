@@ -12,8 +12,6 @@ Just keep trying.
 
 ### Posts
 
-- Dec 12, 2022 - Real-time processor framework [[link]](https://github.com/alantanlc/blog/tree/main/posts/real-time-processor-framework)
-- Dec 12, 2022 - Simple round-robin algorithm [[link]](https://github.com/alantanlc/blog/tree/main/posts/simple-round-robin-algorithm)
 - July 11, 2022 - Config Service
   [[link]](https://github.com/alantanlc/blog/tree/main/posts/config-service)
 - July 10, 2022 - Deploying app using `cf push`
