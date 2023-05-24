@@ -145,6 +145,8 @@ Just keep trying.
 
 - AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
+<hr style="height: 0.05rem;" />
+
 ### Books
 
 - Feb 2023 - The 4-Hour Work Week [[link]](https://fourhourworkweek.com/)
