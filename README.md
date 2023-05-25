@@ -149,5 +149,6 @@ Just keep trying.
 
 ### Books
 
+- May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/about/Trekking_Chamonix_to_Zermatt.html?id=kkaEEAAAQBAJ&source=kp_book_description&redir_esc=y)
 - Feb 2023 - The 4-Hour Work Week [[link]](https://fourhourworkweek.com/)
 - Feb 2023 - The Third Door [[link]](https://thirddoorbook.com/)
