@@ -60,7 +60,7 @@ Just keep trying.
   Shell (BASH)</span>
 - 2020 - NTU Courses
   [[website]](https://ntucourses.com)
-  [[code]](https://github.com/alantanlc/ntumods)
+  [[code]](https://github.com/alantanlc/ntucourses)
   <span style='color: gray; font-style: italic; font-size: 8pt;'>ReactJS, Bootstrap, Python, Django, PostgreSQL, AWS, Ubuntu 20.04, nginx, gunicorn, Let's Encrypt, Certbot</span>
 - 2020 - Torchemotion
   [[code]](https://github.com/alantanlc/torchemotion)
