@@ -157,6 +157,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
-- May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/about/Trekking_Chamonix_to_Zermatt.html?id=kkaEEAAAQBAJ&source=kp_book_description&redir_esc=y)
+- May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/?id=kkaEEAAAQBAJ)
+- Apr 2023 - Software Engineering at Google: Lessons Learned from Programming Over Time [[link]](https://books.google.com.sg/books?id=V3TTDwAAQBAJ)
 - Feb 2023 - The 4-Hour Work Week [[link]](https://fourhourworkweek.com/)
 - Feb 2023 - The Third Door [[link]](https://thirddoorbook.com/)
