@@ -2,19 +2,19 @@
 
 <small style="display:block; margin-top: -1rem; font-size: 11pt; font-weight: normal; color: grey;">@alantanlc</small>
 
-Software engineer working on real-time payments at JP Morgan.
+[[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
+[[GitHub](https://github.com/alantanlc)]
+[[LinkedIn](https://www.linkedin.com/in/alantanlc/)]
+
+Software engineer working on real-time payments at JP Morgan
 
 Previously worked at GIC and DSO National Laboratories
 
 NTU Computer Science (Bachelors) and NUS Computer Science (Masters)
 
-Things that interest me: real-time systems, parallel computing, web scraping.
+Topics that interest me: real-time systems, parallel computing, web scraping
 
 During my free time, I love to cook, read, run, hike and snowboard. They help to clear my mind and keep me sane.
-
-[[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
-[[GitHub](https://github.com/alantanlc)]
-[[LinkedIn](https://www.linkedin.com/in/alantanlc/)]
 
 <hr style="height: 0.05rem;" />
 
