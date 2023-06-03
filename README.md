@@ -2,7 +2,7 @@
 
 <small style="display:block; margin-top: -1rem; font-size: 11pt; font-weight: normal; color: grey;">@alantanlc</small>
 
-[[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit)]
+[[Resume](https://docs.google.com/document/d/1NeTUAE8KsCUVQrlmhDdjLFS-0qwqHZN4qspAl3VLD2Q/edit){:target="_blank"}]
 [[GitHub](https://github.com/alantanlc)]
 [[LinkedIn](https://www.linkedin.com/in/alantanlc/)]
 
@@ -10,7 +10,7 @@ Software engineer working on real-time payments at JP Morgan
 
 Previously worked at GIC and DSO National Laboratories
 
-NTU Computer Science (Bachelors) and NUS Computer Science (Masters)
+NTU Computer Science (Bachelor's) and NUS Computer Science (Master's)
 
 Topics that interest me: real-time systems, parallel computing, web scraping, engineering best practices
 
@@ -21,7 +21,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 ### Posts
 
 - July 11, 2022 - Config Service
-  [[link]](https://github.com/alantanlc/blog/tree/main/posts/config-service)
+  [[link]](https://github.com/alantanlc/blog/tree/main/posts/config-service){:target="_blank"}
 - July 10, 2022 - Deploying app using `cf push`
   [[link]](https://github.com/alantanlc/blog/tree/main/posts/deploying-app-using-cf-push)
 - July 7, 2022 - Parsing Nested Data Structures
