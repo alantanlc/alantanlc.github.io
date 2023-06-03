@@ -12,7 +12,7 @@ Previously worked at GIC and DSO National Laboratories
 
 NTU Computer Science (Bachelors) and NUS Computer Science (Masters)
 
-Topics that interest me: real-time systems, parallel computing, web scraping
+Topics that interest me: real-time systems, parallel computing, web scraping, engineering best practices
 
 During my free time, I love to cook, read, run, hike and snowboard. They help to clear my mind and keep me sane.
 
