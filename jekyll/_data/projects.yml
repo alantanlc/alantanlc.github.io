@@ -1,0 +1,14 @@
+- title: Git Pull
+  year: 2021
+  reference:
+    - type: code
+      link: #
+  tech: BASH
+- title: NTU Courses
+  year: 2020
+  reference:
+    - type: website
+      link: https://www.ntucourses.com/
+    - type: code
+      link: #
+  tech: ReactJS, Bootstrap, Python, Django, PostgreSQL, AWS, Ubuntu 20.04, nginx, gunicorn, Let’s Encrypt, Certbot
