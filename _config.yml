@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: alantanlc
 linkedin_username: alantanlc
+google_analytics: G-ZWEDBLWZ20
 
 # Build settings
 remote-theme: pages-themes/primer@v.0.2.0
