@@ -11,9 +11,9 @@ It thought it was an awesome tool and had wanted to use it to publish a personal
 
 Publishing a Jekyll site on GitHub pages turned out to be extremely simple. You just need to push the source code to a GitHub repository and enable the “Build and deployment” feature in the repository settings page. GitHub will automatically trigger a deployment, build the static files and then publish the contents to the site.
 
-My old site was also published on GitHub pages using a single README.MD file and after updating to a new Jekyll site, low and behold… the new site looks pretty much the same.
+My old site was also published on GitHub pages using a single [README.MD](https://github.com/alantanlc/alantanlc.github.io/blob/master/archive/v1/README.md) file and after updating to a new Jekyll site, low and behold… the new site looks pretty much the same.
 
-I did not want to spend too much time working on the HTML and CSS of the site and so I went with the [Primer](https://github.com/pages-themes/primer) theme which is great for rendering markdown content.
+I did not want to spend too much time fiddling with the HTML and CSS of the site and so I went with the [Primer](https://pages-themes.github.io/primer/) theme which is great for rendering markdown content.
 
 The main added feature of using Jekyll for me was being able to navigate between pages and blog posts within the site itself.
 
