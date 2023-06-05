@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<!-- <html lang="{{ page.lang | default: site.lang | default: "en-US" }}" data-theme="dark"> -->
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,6 +8,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!-- <link rel="stylesheet" href="/assets/css/primer.css"> -->
     {% include head-custom.html %}
     {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include analytics.html %}
