@@ -218,7 +218,7 @@ This method basically abstracts the `try and catch exception` block into the `St
 
 ## Nested Null Checks
 
-This method __traverses__ the nested data structure level by level. This allows us to retrieve `levelTwoName` even if the remaining nested objects are null (e.g. if `levelFourMap` is null). However, this method has poor readability.
+This method __traverses__ the nested data structure level by level. This allows us to retrieve `levelTwoName` even if the remaining nested objects are null (e.g. if `levelFourMap` is null). However, this method has poor readability and certainly does not sit well with [Never Nesters](https://www.youtube.com/watch?v=CFRhGnuXG-4&ab_channel=CodeAesthetic).
 
 ```java
 public List<String> getNames(LevelOne levelOne) {
