@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- July 2023 - 
 - July 2023 - The Psychology Of Money
 - May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/?id=kkaEEAAAQBAJ){:target="_blank"}
 - Apr 2023 - Software Engineering at Google: Lessons Learned from Programming Over Time [[link]](https://books.google.com.sg/books?id=V3TTDwAAQBAJ){:target="_blank"}
