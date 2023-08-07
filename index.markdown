@@ -20,7 +20,7 @@ Previously worked at GIC and DSO National Laboratories
 
 NTU Computer Science (Bachelor's) and NUS Computer Science (Master's)
 
-Topics that interest me: real-time applications, parallel computing, web scraping, automation, engineering best practices
+Topics that interest me: distributed systems, real-time applications, web scraping, automation, engineering best practices
 
 During my free time, I love to cook, read, run, hike and snowboard. They help to clear my mind and keep me sane.
 
@@ -123,7 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
-- July 2023 - 
+- August 2023 - Designing Distributed Systems
 - July 2023 - The Psychology Of Money
 - May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/?id=kkaEEAAAQBAJ){:target="_blank"}
 - Apr 2023 - Software Engineering at Google: Lessons Learned from Programming Over Time [[link]](https://books.google.com.sg/books?id=V3TTDwAAQBAJ){:target="_blank"}
