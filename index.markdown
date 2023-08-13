@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- August 2023 - Never Split the Difference
 - August 2023 - Designing Distributed Systems
 - July 2023 - The Psychology Of Money
 - May 2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/?id=kkaEEAAAQBAJ){:target="_blank"}
