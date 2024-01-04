@@ -123,6 +123,10 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- December 2023 - How to Win Friends and Influence People
+- November 2023 - How to Talk and Instantly Connect with Anyone
+- October 2023 - The Power Of Saying No
+- September 2023 - The 7 Habits of Highly Effective People
 - August 2023 - Never Split the Difference
 - August 2023 - Designing Distributed Systems
 - July 2023 - The Psychology Of Money
