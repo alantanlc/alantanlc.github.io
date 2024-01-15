@@ -20,7 +20,7 @@ Previously worked at GIC and DSO National Laboratories
 
 NTU Computer Science (Bachelor's) and NUS Computer Science (Master's)
 
-Topics that interest me: distributed systems, real-time applications, web scraping, automation, engineering best practices
+Topics that interest me: python, distributed systems, real-time applications, web scraping, automation, engineering best practices
 
 During my free time, I love to cook, read, run, hike and snowboard. They help to clear my mind and keep me sane.
 
