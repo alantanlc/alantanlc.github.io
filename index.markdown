@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- January 2024 - The Courage To Be Disliked
 - January 2024 - Robust Python : write clean and maintainable code
 - January 2024 - How to Stop Worrying and Start Living
 - December 2023 - How to Win Friends and Influence People
