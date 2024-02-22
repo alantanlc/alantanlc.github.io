@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- February 2024 - Designing Distributed Systems (again)
 - February 2024 - The Courage To Be Happy
 - January 2024 - The Courage To Be Disliked
 - January 2024 - Robust Python : write clean and maintainable code
