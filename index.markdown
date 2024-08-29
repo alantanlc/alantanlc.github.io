@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- August 2024 - The Big Short
 - August 2024 - Fundamentals of Software Architecture (An Engineering Approach)
 - February 2024 - Designing Distributed Systems (again)
 - February 2024 - The Courage To Be Happy
