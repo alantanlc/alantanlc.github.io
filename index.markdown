@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, hike and snowboard. They help to
 
 ### Books
 
+- October 2024 - The Art of War
 - September 2024 - The Laws of Human Nature
 - August 2024 - The Big Short
 - August 2024 - Fundamentals of Software Architecture (An Engineering Approach)
