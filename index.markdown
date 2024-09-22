@@ -18,7 +18,7 @@ Software engineer working on global real-time payments at JP Morgan
 
 Previously worked at GIC and DSO National Laboratories
 
-NTU Computer Science (Bachelor's) and NUS Computer Science (Master's)
+NTU Computer Science (Bachelor) and NUS Computer Science (Master)
 
 Topics that interest me: python, distributed systems, real-time applications, web scraping, automation, engineering best practices
 
