@@ -123,9 +123,10 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
 
 ### Books
 
+- November 2024 - Going Infinite
+- November 2024 - Think Faster Talk Smarter
 - October 2024 - Liar’s Poker
 - October 2024 - Flashboys
-- October 2024 - Think Faster Talk Smarter
 - September 2024 - The Art of War
 - September 2024 - How to Win Friends and Influence People
 - September 2024 - The Laws of Human Nature
