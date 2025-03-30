@@ -14,7 +14,7 @@ layout: default
 [[LinkedIn](https://www.linkedin.com/in/alantanlc/){:target="_blank"}]
 [[Blog](/blog){:target="_blank"}]
 
-Software engineer working on Pricing & Risk Management for Currenices & Emerging Markets at JP Morgan
+Software engineer working on Pricing & Risk Management for Currencies & Emerging Markets at JP Morgan
 
 Previously worked at GIC and DSO National Laboratories
 
