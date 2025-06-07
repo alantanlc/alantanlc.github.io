@@ -123,6 +123,7 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
 
 ### Books
 
+- June 2025 - Atomic Habits
 - November 2024 - Going Infinite
 - November 2024 - Think Faster Talk Smarter
 - October 2024 - Liar’s Poker
