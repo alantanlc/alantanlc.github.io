@@ -123,6 +123,8 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
 
 ### Books
 
+- July 2025 - Leaders Eat Last
+- July 2025 - Surrounded By Idiots
 - June 2025 - Mindset
 - June 2025 - How To Deal With Difficult People
 - June 2025 - Atomic Habits
