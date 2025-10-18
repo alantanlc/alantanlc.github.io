@@ -123,27 +123,14 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
 
 ### Books
 
-- July 2025 - Leaders Eat Last
-- June 2025 - Mindset
-- June 2025 - Atomic Habits
-- November 2024 - Going Infinite
-- November 2024 - Think Faster Talk Smarter
 - October 2024 - Liar’s Poker
 - October 2024 - Flashboys
-- September 2024 - The Art of War
-- September 2024 - How to Win Friends and Influence People
-- September 2024 - The Laws of Human Nature
 - August 2024 - The Big Short
 - August 2024 - Fundamentals of Software Architecture (An Engineering Approach)
 - February 2024 - Designing Distributed Systems (again)
-- February 2024 - The Courage To Be Happy
-- January 2024 - The Courage To Be Disliked
 - January 2024 - Robust Python : write clean and maintainable code
-- January 2024 - How to Stop Worrying and Start Living
 - December 2023 - How to Win Friends and Influence People
-- November 2023 - How to Talk and Instantly Connect with Anyone
 - October 2023 - The Power Of Saying No
-- September 2023 - The 7 Habits of Highly Effective People
 - August 2023 - Never Split the Difference
 - August 2023 - Designing Distributed Systems
 - July 2023 - The Psychology Of Money
