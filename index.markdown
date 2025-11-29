@@ -117,7 +117,7 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
 
 ### Teaching Courses
 
-<br>AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
+AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
 <hr style="height: 0.05rem;" />
 
