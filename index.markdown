@@ -123,7 +123,14 @@ AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
 ### Books
 
-2024 - Liar’s Poker
+2026 - Learning GitHub Copilot
+<br>2026 - Building Applications with AI Agents
+<br>2026 - Robust Python : write clean and maintainable code (again)
+<br>2026 - Candlestick Charts
+<br>2026 - The Psychology Of Money (again)
+<br>2025 - Mindset
+<br>2025 - Think Faster, Talk Smarter
+<br>2024 - Liar’s Poker
 <br>2024 - Flashboys
 <br>2024 - The Big Short
 <br>2024 - Fundamentals of Software Architecture (An Engineering Approach)
