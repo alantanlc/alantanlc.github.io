@@ -123,10 +123,10 @@ AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
 ### Books
 
-2026 - Learning GitHub Copilot
+2026 - System Design Interview Volume 2
+<br>2026 - Learning GitHub Copilot
 <br>2026 - Building Applications with AI Agents
 <br>2026 - Robust Python : write clean and maintainable code (again)
-<br>2026 - Candlestick Charts
 <br>2026 - The Psychology Of Money (again)
 <br>2025 - Mindset
 <br>2025 - Think Faster, Talk Smarter
@@ -141,7 +141,8 @@ AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 <br>2023 - Never Split the Difference
 <br>2023 - Designing Distributed Systems
 <br>2023 - The Psychology Of Money
-<br>2023 - Chamonix To Zermatt: The Walker's Haute Route [[link]](https://books.google.com.sg/books/?id=kkaEEAAAQBAJ){:target="_blank"}
-<br>2023 - Software Engineering at Google: Lessons Learned from Programming Over Time [[link]](https://books.google.com.sg/books?id=V3TTDwAAQBAJ){:target="_blank"}
-<br>2023 - The 4-Hour Work Week [[link]](https://fourhourworkweek.com/){:target="_blank"}
-<br>2023 - The Third Door [[link]](https://thirddoorbook.com/){:target="_blank"}
+<br>2023 - Chamonix To Zermatt: The Walker's Haute Route
+<br>2023 - Software Engineering at Google: Lessons Learned from Programming Over Time
+<br>2023 - The 4-Hour Work Week
+<br>2023 - The Third Door
+
