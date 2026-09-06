@@ -123,7 +123,8 @@ AY2019/20 Sem 2 - CZ3007 Compiler Techniques, Lab Tutor
 
 ### Books
 
-2026 - System Design Interview Volume 2
+2026 - GenAI Design Patterns
+<br>2026 - System Design Interview Volume 2
 <br>2026 - Learning GitHub Copilot
 <br>2026 - Building Applications with AI Agents
 <br>2026 - Robust Python : write clean and maintainable code (again)
