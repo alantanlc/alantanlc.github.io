@@ -13,6 +13,7 @@ layout: default
 [[GitHub](https://github.com/alantanlc){:target="_blank"}]
 [[LinkedIn](https://www.linkedin.com/in/alantanlc/){:target="_blank"}]
 [[Blog](/blog){:target="_blank"}]
+[[Leetcode](https://leetcode.com/u/alantanlc/){:target="_blank"}]
 
 Software engineer working on Pricing & Risk Management for Currencies & Emerging Markets at JP Morgan
 
