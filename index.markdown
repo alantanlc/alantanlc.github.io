@@ -77,7 +77,7 @@ During my free time, I love to cook, read, run, cycle, hike and snowboard. They 
   [[description]](https://docs.google.com/document/d/11560tTdM8xBgi6S9gNVgAAN1Na-8BcY0CkkJejB4AkU/edit?usp=sharing)
   <span style='color: gray; font-style: italic; font-size: 8pt;'>C++, CUDA, Boost, Intel IPP, MATLAB, gRPC, GitLab</span>
 <br>2018 - Music Genre Classification using Machine Learning
-  [[code]](https://github.com/alantanlc/cs4347-music-genre-classification)
+  [[code]](https://github.com/alantanlc/music-genre-classification)
   [[report]](https://www.overleaf.com/read/jjbswwsdjpqs)
   <span style='color: gray; font-style: italic; font-size: 8pt;'>Python, JavaScript, WEKA, Scikit-Learn, Bootstrap, NodeJS</span>
 <br>2018 - Book Recommendation Engine Based on User's Tweets
