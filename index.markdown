@@ -17,7 +17,7 @@ layout: default
 
 <!-- Software engineer working on Pricing & Risk Management for Currencies & Emerging Markets at JP Morgan -->
 
-Software engineer.
+Software engineer @ _
 
 Previously worked at JP Morgan, GIC and DSO National Laboratories
 
