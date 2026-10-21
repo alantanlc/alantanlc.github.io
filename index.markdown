@@ -15,9 +15,11 @@ layout: default
 [[Blog](/blog){:target="_blank"}]
 [[Leetcode](https://leetcode.com/u/alantanlc/){:target="_blank"}]
 
-Software engineer working on Pricing & Risk Management for Currencies & Emerging Markets at JP Morgan
+<!-- Software engineer working on Pricing & Risk Management for Currencies & Emerging Markets at JP Morgan -->
 
-Previously worked at GIC and DSO National Laboratories
+Software engineer.
+
+Previously worked at JP Morgan, GIC and DSO National Laboratories
 
 NTU Computer Science (Bachelor) and NUS Computer Science (Master)
 
